@@ -8,6 +8,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quintrell-11/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quintrell-11/azure-network-protocols)
+   - [Trouble Shooting and Firewall Deployment](https://github.com/quintrell-11/firewall-dp)
+
 
 <h2>🤳🏿Connect with me:</h2>
 
